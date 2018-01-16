@@ -1,6 +1,9 @@
-# vuex-net-ninja
+# vuex playground
 
-> A Vue.js project
+> A Vue.js project build with Net Ninja videos
+Check his awesome chanel, like and subcribe 
+
+https://www.youtube.com/watch?v=BGAu__J4xoc&list=PL4cUxeGkcC9i371QO_Rtkl26MwtiJ30P2
 
 ## Build Setup
 
